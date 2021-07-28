@@ -15,7 +15,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LyoSU&show_icons=true&&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rakorahan&show_icons=true&&theme=tokyonight" />
 </p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rakorahan/&title=Profile%20Views)
