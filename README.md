@@ -12,4 +12,26 @@
 <a href="https://www.w3.org/html/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="html5" width="30" height="30"/> </a> 
 <a href="https://www.w3.org/html/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="html5" width="30" height="30"/> </a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakorahan&theme=tokyonight)
+### Hi there 👋
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LyoSU&show_icons=true&&theme=tokyonight" />
+</p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LyoSU/&title=Profile%20Views)
+
+
+<!--
+**LyoSU/LyoSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
